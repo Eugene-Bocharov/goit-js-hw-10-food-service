@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-10-food-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serv": "parcel index.html --open --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugene-Bocharov/goit-js-hw-10-food-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eugene-Bocharov/goit-js-hw-10-food-service/issues"
+  },
+  "homepage": "https://github.com/Eugene-Bocharov/goit-js-hw-10-food-service#readme",
+  "devDependencies": {
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
+  }
+}
